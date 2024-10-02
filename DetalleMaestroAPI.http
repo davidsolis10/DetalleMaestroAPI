@@ -1,0 +1,6 @@
+@DetalleMaestroAPI_HostAddress = http://localhost:5202
+
+GET {{DetalleMaestroAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
